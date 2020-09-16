@@ -1,0 +1,7 @@
+//My First C Program
+#include <stdio.h>
+int main()
+{
+  printf("Talk to a Teacher");
+  return 0;
+ }
